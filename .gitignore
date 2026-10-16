@@ -1,0 +1,15 @@
+build/
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.gen/
+*.ip_user_files/
+*.srcs/
+*.xpr
+*.jou
+*.log
+*.str
+.Xil/
+*.dcp
+*.bit
